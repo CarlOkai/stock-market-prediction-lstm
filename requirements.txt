@@ -1,0 +1,7 @@
+yfinance
+pandas
+matplotlib
+pandas_datareader
+keras
+scikit-learn
+streamlit

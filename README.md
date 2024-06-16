@@ -1,0 +1,2 @@
+# Stock Market Prediction with LSTM Model
+Predicting stock market prices using LSTM (Long Short-Term Memory) neural networks. The project fetches historical stock data, trains an LSTM model, and makes predictions for future stock prices.
